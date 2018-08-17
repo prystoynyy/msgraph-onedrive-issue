@@ -1,0 +1,10 @@
+{
+  "name": "msgraph-onedrive-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ms-graph-test.js",
+  "scripts": {
+  },
+  "author": "prystoynyy",
+  "license": "ISC"
+}
